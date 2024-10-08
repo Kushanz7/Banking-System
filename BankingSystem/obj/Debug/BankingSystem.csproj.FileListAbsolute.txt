@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\DELL\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
